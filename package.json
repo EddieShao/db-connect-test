@@ -1,0 +1,25 @@
+{
+  "name": "db-connect-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddieShao/db-connect-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddieShao/db-connect-test/issues"
+  },
+  "homepage": "https://github.com/EddieShao/db-connect-test#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "mysql": "^2.18.1"
+  }
+}
